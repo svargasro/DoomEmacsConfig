@@ -55,7 +55,7 @@
 
        :editor
 
-       (evil +everywhere) ; Come to the dark side, we have cookies
+       ;;(evil +everywhere) ; Come to the dark side, we have cookies
        file-templates    ; auto-snippets for empty files
        fold              ; (nigh) universal code folding
        ;;(format +onsave)  ; automated prettiness
