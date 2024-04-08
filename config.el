@@ -80,5 +80,7 @@
 ;;
 ;;
 (after! smartparens
-    (sp-pair "<" "")
-)
+  (sp-pair "<" "")
+
+  )
+(use-package! company)
